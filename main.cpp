@@ -8,6 +8,7 @@ int main()
 
 	game.run();
          cout<<"hello word" <<endl;
+	cout<<"adding new things"<<endl;
 	return 0;
 }
 
