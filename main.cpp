@@ -7,7 +7,7 @@ int main()
 	Game game;
 
 	game.run();
-
+         cout<<"hello word" <<endl;
 	return 0;
 }
 
